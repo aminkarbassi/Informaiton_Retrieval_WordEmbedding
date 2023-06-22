@@ -1,5 +1,9 @@
 # Informaiton_Retrieval_WordEmbedding
 
+Introduction
+
+As part of a search task, 50 queries on a collection of over 20'000 documents are evaluated. The queries represent information needs, which are sometimes formulated in keywords, but also as complete sentences. in keywords, but also as complete sentences. 
+
 Systems Used and Motivation
 
 For this project, the text-embedding-ada-002 model from OpenAI was utilized. This pre-trained word embedding model offers powerful capabilities for representing textual data in a high-dimensional space. The motivation behind using such a model was to leverage the semantic information encoded within the embeddings, enabling more accurate comparisons and similarity measurements between documents and queries.
